@@ -14,12 +14,12 @@ At the beginning and end of these lessons students will take a self assessment o
 ### Learning Activities
 
 All learning activities will be accessed using class time during the regular school day. 
-^ The class activities will begin with a student self directed list of all the ways they can list computing impacts on their daily lives. 
-^ As a whole class students will share a Google Doc called T-Chart, pros and cons of computing in society.  
-^ As a whole class using a collaborative conversation tool called Parlay Ideas students will take one idea of their choice from the T-chart and from knowledge or research post three facts to support the topic.  Each student will be expected to read all of their classmates’ posts. 
-^ Students will individually conduct an internet search to estimate the income from three computer science jobs and compare those to that of entry level restaurant jobs using a Google Form linked to a class spreadsheet.
-^ Students will view a video that explains how the skills of programming a computer are based in literacy and logical thinking.    
-^ Concluding, the class activities will end with students revisiting their self directed lists of all the ways computing impacts their lives, and comparing that list to the one they completed at the beginning of the course.  
+- The class activities will begin with a student self directed list of all the ways they can list computing impacts on their daily lives. 
+- As a whole class students will share a Google Doc called T-Chart, pros and cons of computing in society.  
+- As a whole class using a collaborative conversation tool called Parlay Ideas students will take one idea of their choice from the T-chart and from knowledge or research post three facts to support the topic.  Each student will be expected to read all of their classmates’ posts. 
+- Students will individually conduct an internet search to estimate the income from three computer science jobs and compare those to that of entry level restaurant jobs using a Google Form linked to a class spreadsheet.
+- Students will view a video that explains how the skills of programming a computer are based in literacy and logical thinking.    
+- Concluding, the class activities will end with students revisiting their self directed lists of all the ways computing impacts their lives, and comparing that list to the one they completed at the beginning of the course.  
 
 
 ### Assessment
